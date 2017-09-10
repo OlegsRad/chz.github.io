@@ -8,8 +8,8 @@
       <left><img alt="Это я" width="15%" src="me.jpg"></left>
       <br/>
       <h2>Контакты:</h2>
-      Я на GitHub <a href=https://github.com/OlegsRad</a>
-      <br/>
+      Я на <a href=https://github.com/OlegsRad </a>
+      <br> GitHub <br/>
       Телефон: <b>+7..........</b>
       <br/>
       E-mail: <i>username@edu.hse.ru</i>
