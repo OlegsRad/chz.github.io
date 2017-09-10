@@ -9,6 +9,7 @@
       <br/>
       <h2>Контакты:</h2>
       Я на <a href=https://github.com/OlegsRad > GitHub </a> 
+      <br/>
       Телефон: <b>+7..........</b>
       <br/>
       E-mail: <i>username@edu.hse.ru</i>
