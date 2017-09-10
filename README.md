@@ -1,9 +1,8 @@
   <html>
     <head>
-      <meta name="theme-color" content="#9CC2CE">
       <h1>Моя страничка </h1>
     </head>
-    <body> 
+    <body background-color: #FFCC66> 
       <left><h2>Олегс Радомисленскис</h2></left>
       <left><img src="https://pp.userapi.com/c410131/v410131885/11df/lIPJ0QJB5rA.jpg"></left>
       <br/>
