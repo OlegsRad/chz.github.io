@@ -4,13 +4,11 @@
       <title>Моя личная страничка</title>
     </head>
     <body> 
-      <left><h1>Карл Великий</h1></left>
+      <left><h1>Олегс Радомисленскис</h1></left>
       <left><img alt="Это я" width="15%" src="me.jpg"></left>
       <br/>
       <h2>Контакты:</h2>
-      Страничка <a href=https://vk.com/username/>vkontakte</a>
-      <br/>
-      <a href=https://github.com/username>GitHub</a>
+      Я на GitHub <a href=https://github.com/OlegsRad</a>
       <br/>
       Телефон: <b>+7..........</b>
       <br/>
