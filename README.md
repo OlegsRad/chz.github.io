@@ -1,10 +1,10 @@
   <html>
     <head>
       <meta charset="utf-8">
-      <fieldset><legend><b>Моя страничка</b></legend>здесь текст</fieldset>
     </head>
     <body> 
-      <left><h1>Олегс Радомисленскис</h1></left>
+      <fieldset>
+      <left><h2>Олегс Радомисленскис</h2></left>
       <left><img alt="Это я" width="15%" src="me.jpg"></left>
       <br/>
       <h2>Контакты:</h2>
@@ -13,5 +13,6 @@
       Телефон: <b>+7..........</b>
       <br/>
       E-mail: <i>username@edu.hse.ru</i>
+       </fieldset>
     </body>
   </html>
