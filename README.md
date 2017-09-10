@@ -1,9 +1,8 @@
   <html>
     <head>
-      <h1 color: #990000;
-	background-color: #FC9804>Моя страничка </h1>
+      <h1 style="color:#ff0000">Моя страничка </h1>
     </head>
-    <body background-color: #FFCC66> 
+    <body> 
       <left><h2>Олегс Радомисленскис</h2></left>
       <left><img src="https://pp.userapi.com/c410131/v410131885/11df/lIPJ0QJB5rA.jpg"></left>
       <br/>
