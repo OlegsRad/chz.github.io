@@ -4,7 +4,7 @@
     </head>
     <body> 
       <left><h2>Олегс Радомисленскис</h2></left>
-      <left><img alt="Это я" width="15%" src="me.jpg"></left>
+      <left><img src="https://pp.userapi.com/c410131/v410131885/11df/lIPJ0QJB5rA.jpg"></left>
       <br/>
       <span style="border-width:thick; border-style:groove; border-color:#FF5730">
       <h2>Контакты:</h2>
