@@ -1,6 +1,7 @@
   <html>
     <head>
-      <h1>Моя страничка </h1>
+      <h1 color: #990000;
+	background-color: #FC9804>Моя страничка </h1>
     </head>
     <body background-color: #FFCC66> 
       <left><h2>Олегс Радомисленскис</h2></left>
