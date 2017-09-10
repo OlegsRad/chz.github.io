@@ -1,7 +1,7 @@
   <html>
     <head>
       <meta charset="utf-8">
-      <title>Моя личная страничка</title>
+      <fieldset><legend><b>Моя страничка</b></legend>здесь текст</fieldset>
     </head>
     <body> 
       <left><h1>Олегс Радомисленскис</h1></left>
